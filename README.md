@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Oray IŞIK</h1>
-<h3 align="center">I am a 2nd year software engineering student at ostim technical university.</h3>
 
 - 🌱 I’m currently learning **Django**
 
