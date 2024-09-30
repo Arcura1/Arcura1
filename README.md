@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oray IŞIK</h1>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **oray_503@hotmail.com**
 
